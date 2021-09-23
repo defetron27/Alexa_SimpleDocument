@@ -1,0 +1,10 @@
+{
+  "welcomeTemplate":
+  {
+    "type" : "object",
+    "properties":
+    {
+      "welcomeMessage" : "Hi welcome to simple document. This is apl document demo."
+    }
+  }
+}
